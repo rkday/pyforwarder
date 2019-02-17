@@ -1,0 +1,6 @@
+.coverage
+.eggs/
+.tox/
+pyforwarder.egg-info/
+*.pyc
+__pycache__
