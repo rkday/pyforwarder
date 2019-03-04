@@ -8,5 +8,6 @@ setup(name="pyforwarder",
       tests_require=["pytest", "pytest-cov"],
       setup_requires=['pytest-runner'],
       description="Method forwarding library for Python",
+      long_description=open('README.rst').read(),
       license="MIT",
 )
